@@ -6,15 +6,15 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
+    name: 'Akankshya Pradhan',
+    title: 'Data Science Student',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Passionate student pursuing BSc in Economics with Data Science from Christ (deemed to be university).\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      '.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      '.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
